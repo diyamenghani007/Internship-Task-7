@@ -1,0 +1,8 @@
+Displaying all values in View 1(CustomerBill)
+Displaying values in View 1 having TotalAmount more than 5000.
+Displaying all values in View 2(MonthlySales)
+Displaying values in View 2 having TotalAmount more than 10000.
+Displaying all values in View 3(TopCustomers)
+Displaying all values in View 4(ProductSales)
+Displaying Total Units Sold for Each Product.
+Join View with Tables
